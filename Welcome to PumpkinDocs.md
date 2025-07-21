@@ -1,4 +1,4 @@
-This will hopefuly be a place to find info on pumpkin development, impl info, and other developement information.
+This will hopefully be a place to find info on pumpkin development, impl info, and other development information.
 
 For block impls, check out [[Pumpkin Block]]
 

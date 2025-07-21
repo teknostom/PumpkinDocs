@@ -30,6 +30,6 @@ impl PumpkinBlock for TNTBlock {
 }
 ```
 
-Here you have the ability to implement functions like `placed`, `on_neighbor_update`, `random_tick`, `get_weak_redstone_power`, and many more.
+Here you have the ability to implement functions like `placed`, `on_neighbor_update`, [`random_tick`](Random%20Ticks), `get_weak_redstone_power`, and many more.
 
 Note: The code in pumpkin should always match [[Vanilla]]
