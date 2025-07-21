@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to PumpkinDocs.md",
+                "file": "Pumpkin Block.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome to PumpkinDocs"
+              "title": "Pumpkin Block"
             }
           }
         ],
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to PumpkinDocs.md",
+                "file": "Pumpkin Block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome to PumpkinDocs"
+              "title": "Backlinks for Pumpkin Block"
             }
           },
           {
@@ -146,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to PumpkinDocs.md",
+                "file": "Pumpkin Block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome to PumpkinDocs"
+              "title": "Outgoing links from Pumpkin Block"
             }
           },
           {
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to PumpkinDocs.md",
+                "file": "Pumpkin Block.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome to PumpkinDocs"
+              "title": "Outline of Pumpkin Block"
             }
           }
         ]
@@ -204,9 +204,9 @@
   "active": "50670ffca0017fe6",
   "lastOpenFiles": [
     "Random Ticks.md",
-    "Pumpkin Block.md",
     "Vanilla.md",
     "Welcome to PumpkinDocs.md",
+    "Pumpkin Block.md",
     "Vanilla -> Acquiring source.md"
   ]
 }
